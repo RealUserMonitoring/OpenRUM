@@ -2,7 +2,11 @@
 ![OpenRUM Logo](resources/images/logo/open_rum_vertical_logo.png)
 
 - [OpenRUM概述](#openrum概述)
-  - [介绍](#介绍)
+-  - [Session](./overview/session.md)
+-  - [Events](./overview/events.md)
+- [Protocol](https://github.com/RealUserMonitoring/OpenRUM-proto)
+- [Specification](https://github.com/RealUserMonitoring/OpenRUM-specification)
+- [会议纪要](./meeting_minutes/README.md)
 
 # OpenRUM概述
 
